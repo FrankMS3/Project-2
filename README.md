@@ -1,5 +1,11 @@
 # Project-2  
-
+Before beginning, create a file named "config.py" within the main folder (the one "data_etl.ipynb" is located in). In this file, include your PostgreSQL username and password in the format:  
+pg_username = "YOUR USERNAME HERE"  
+pg_password = "YOUR PASSWORD HERE"  
+  
+To get started, create a database in PostgreSQL named "indian_cities_db". In this database, use the queries found in "indian_cities.sql" to create the necessary empty tables.  
+Next, open and run the code within the file named "data_etl_.ipynb". This will load the .csv files located within the "Resources" folder into Pandas dataframes, clean and transform them, then connect to the "indian_cities_db" database and load the two cleaned datasets into their respective tables.  
+Also included in both the "indian_cities.sql" and "data_etl.ipynb" files is a join statement, for joining the two tables.  
   
 ------------------------------------------------------------------------------  
   
@@ -47,4 +53,3 @@ So, the final schemata was two tables in a PostgreSQL database. The first, “in
   
 These datasets were chosen because, though we weren’t actually required to perform analysis for this project, we wanted to use the ETL process to prepare datasets that could actually be used to answer interesting questions. So, we decided to investigate if there is a correlation between the population of a city and its pollution levels. The motivation behind choosing Indian cities was to look into another country, one which we aren’t very familiar with. Also, there is far more data for this sort of thing for Indian cities than Australian, as well as there of course being far more cities in India too, making for a larger dataset.  
   
-
