@@ -1,0 +1,149 @@
+State,City,Avg(ppb),Max(ppb),Min(ppb)
+Andhra_Pradesh,Amaravati,28,30,13
+Andhra_Pradesh,Rajamahendravaram,23,46,2
+Andhra_Pradesh,Tirupati,41,54,38
+Andhra_Pradesh,Visakhapatnam,20,92,4
+Assam,Guwahati,42,86,10
+Bihar,Aurangabad,NA,NA,NA
+Bihar,Begusarai,54,74,51
+Bihar,Bettiah,42,48,30
+Bihar,Bihar Sharif,31,36,22
+Bihar,Buxar,76,82,35
+Bihar,Darbhanga,61,87,55
+Bihar,Gaya,47,84,24
+Bihar,Hajipur,33,43,14
+Bihar,Manguraha,NA,NA,NA
+Bihar,Motihari,64,85,52
+Bihar,Muzaffarpur,94,115,44
+Bihar,Patna,74,107,63
+Bihar,Purnia,34,58,21
+Bihar,Rajgir,68,76,48
+Chandigarh,Chandigarh,67,107,12
+Chhattisgarh,Bilaspur,50,124,20
+Delhi,Delhi,152,192,45
+Gujarat,Ahmedabad,43,107,32
+Gujarat,Ankleshwar,82,116,60
+Gujarat,Gandhinagar,49,98,34
+Gujarat,Vapi,NA,NA,NA
+Gujarat,Vatva,34,42,20
+Haryana,Ambala,97,112,4
+Haryana,Bahadurgarh,74,100,2
+Haryana,Ballabgarh,76,171,22
+Haryana,Charkhi Dadri,38,54,13
+Haryana,Dharuhera,60,75,9
+Haryana,Faridabad,53,116,10
+Haryana,Fatehabad,63,82,12
+Haryana,Gurugram,54,147,1
+Haryana,Hisar,102,115,14
+Haryana,Jind,56,70,34
+Haryana,Kaithal,59,97,7
+Haryana,Karnal,69,100,23
+Haryana,Kurukshetra,68,101,2
+Haryana,Mandikhera,14,95,6
+Haryana,Narnaul,29,48,1
+Haryana,Palwal,112,115,97
+Haryana,Panchkula,34,38,1
+Haryana,Panipat,49,60,20
+Haryana,Rohtak,11,13,8
+Haryana,Sirsa,52,59,14
+Haryana,Yamunanagar,45,73,9
+Himachal Pradesh,Baddi,37,59,14
+Karnataka,Bagalkot,NA,NA,NA
+Karnataka,Bengaluru,44,102,10
+Karnataka,Bidar,NA,NA,NA
+Karnataka,Chamarajanagar,14,31,14
+Karnataka,Chikkaballapur,30,31,27
+Karnataka,Chikkamagaluru,28,47,26
+Karnataka,Davanagere,24,32,23
+Karnataka,Gadag,18,24,17
+Karnataka,Hassan,17,36,12
+Karnataka,Haveri,NA,NA,NA
+Karnataka,Hubballi,58,76,48
+Karnataka,Kalaburgi,NA,NA,NA
+Karnataka,Madikeri,17,19,16
+Karnataka,Manglore,60,62,58
+Karnataka,Mysuru,3,45,1
+Karnataka,Raichur,44,78,39
+Karnataka,Ramanagara,16,24,3
+Karnataka,Vijayapura,35,111,26
+Kerala,Eloor,62,65,59
+Kerala,Ernakulam,38,66,26
+Kerala,Kannur,47,105,36
+Kerala,Kochi,95,102,81
+Kerala,Kollam,62,66,59
+Kerala,Kozhikode,18,46,12
+Kerala,Thiruvananthapuram,39,86,5
+Kerala,Thrissur,50,52,47
+Madhya Pradesh,Bhopal,42,63,19
+Madhya Pradesh,Damoh,10,12,10
+Madhya Pradesh,Dewas,40,61,20
+Madhya Pradesh,Gwalior,61,105,11
+Madhya Pradesh,Indore,34,110,14
+Madhya Pradesh,Jabalpur,58,161,4
+Madhya Pradesh,Katni,83,127,23
+Madhya Pradesh,Mandideep,39,52,9
+Madhya Pradesh,Pithampur,57,72,39
+Madhya Pradesh,Sagar,NA,NA,NA
+Madhya Pradesh,Satna,11,11,11
+Madhya Pradesh,Singrauli,87,108,16
+Madhya Pradesh,Ujjain,32,36,15
+Maharashtra,Aurangabad,42,106,9
+Maharashtra,Chandrapur,63,91,38
+Maharashtra,Kalyan,48,116,1
+Maharashtra,Mumbai,101,108,99
+Maharashtra,Nagpur,40,69,33
+Maharashtra,Nashik,NA,NA,NA
+Maharashtra,Navi Mumbai,72,104,66
+Maharashtra,Pune,112,119,110
+Maharashtra,Solapur,84,84,57
+Manipur,Imphal,6,6,6
+Meghalaya,Shillong,59,88,18
+Mizoram,Aizawl,23,30,16
+Nagaland,Kohima,19,30,15
+Odisha,Brajrajnagar,59,67,56
+Odisha,Talcher,66,111,46
+Puducherry,Puducherry,18,31,9
+Punjab,Amritsar,71,117,5
+Punjab,Bathinda,82,103,21
+Punjab,Jalandhar,66,104,26
+Punjab,Khanna,33,52,17
+Punjab,Ludhiana,51,71,11
+Punjab,Mandi Gobindgarh,30,43,6
+Punjab,Patiala,79,117,30
+Punjab,Rupnagar,28,119,13
+Rajasthan,Ajmer,12,58,5
+Rajasthan,Alwar,31,106,6
+Rajasthan,Bhiwadi,45,69,9
+Rajasthan,Jaipur,102,194,102
+Rajasthan,Jodhpur,23,61,6
+Rajasthan,Kota,54,82,13
+Rajasthan,Pali,42,72,24
+Rajasthan,Udaipur,27,132,19
+TamilNadu,Chennai,60,152,36
+TamilNadu,Coimbatore,18,19,1
+TamilNadu,Thoothukudi,13,14,1
+Telangana,Hyderabad,61,113,1
+Tripura,Agartala,32,76,21
+Uttar_Pradesh,Agra,79,138,11
+Uttar_Pradesh,Bulandshahr,92,120,22
+Uttar_Pradesh,Firozabad,82,119,17
+Uttar_Pradesh,Ghaziabad,136,189,22
+Uttar_Pradesh,Gorakhpur,23,26,16
+Uttar_Pradesh,Greater Noida,108,117,31
+Uttar_Pradesh,Hapur,129,141,48
+Uttar_Pradesh,Jhansi,94,122,25
+Uttar_Pradesh,Kanpur,107,136,62
+Uttar_Pradesh,Lucknow,75,122,8
+Uttar_Pradesh,Meerut,77,107,20
+Uttar_Pradesh,Moradabad,113,153,60
+Uttar_Pradesh,Muzaffarnagar,76,101,38
+Uttar_Pradesh,Noida,150,180,108
+Uttar_Pradesh,Prayagraj,109,146,23
+Uttar_Pradesh,Varanasi,69,140,26
+Uttar_Pradesh,Vrindavan,44,66,10
+Uttarakhand,Dehradun,42,46,33
+West_Bengal,Asansol,43,50,8
+West_Bengal,Haldia,40,40,32
+West_Bengal,Howrah,29,72,16
+West_Bengal,Kolkata,32,42,29
+West_Bengal,Siliguri,44,70,18
